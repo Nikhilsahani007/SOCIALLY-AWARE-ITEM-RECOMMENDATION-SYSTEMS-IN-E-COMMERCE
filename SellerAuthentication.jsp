@@ -26,7 +26,7 @@
   <div class="header">
     <div class="header_resize">
       <div class="logo">
-        <h1><a href="index.html">ITEM RECOMMENDATION FOR WORD-OF-MOUTH SCENARIO IN SOCIAL ECOMMERCE<span></span></a></h1>
+        <h1><a href="index.html">ITEM RECOMMENDATION FOR WORD-OF-MOUTH SCENARIO IN SOCIALÂ ECOMMERCE<span></span></a></h1>
       </div>
       <div class="menu_nav">
         <ul>
@@ -38,7 +38,8 @@
       </div>
       <div class="clr"></div>
       <div class="slider">
-        <div id="coin-slider"> <a href="#"><img src="images/slide1.jpg" width="935" height="293" alt="" /> </a> <a href="#"><img src="images/slide2.jpg" width="935" height="293" alt="" /> </a> <a href="#"><img src="images/slide3.jpg" width="935" height="293" alt="" /> </a> </div>
+        <div id="coin-slider"> <a href="#">
+<img src="images/slide1.jpg" width="935" height="293" alt="" /> </a> <a href="#"><img src="images/slide2.jpg" width="935" height="293" alt="" /> </a> <a href="#"><img src="images/slide3.jpg" width="935" height="293" alt="" /> </a> </div>
         <div class="clr"></div>
       </div>
       <div class="clr"></div>
