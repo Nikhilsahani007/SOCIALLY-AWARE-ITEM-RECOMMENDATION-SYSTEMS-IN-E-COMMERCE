@@ -10,7 +10,6 @@
 				Class.forName("com.mysql.jdbc.Driver");
 				connection=DriverManager.getConnection("jdbc:mysql://localhost:3306/papr","root","root");
 		
-		
 			}
 			catch(Exception e)
 			{
